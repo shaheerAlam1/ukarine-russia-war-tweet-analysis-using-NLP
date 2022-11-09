@@ -13,6 +13,6 @@
 - KFold
 - reading and writing data from text and csv files
 ### Wordcloud
-[![russia ukraine war tweets wordcloud](https://github.com/shaheerAlam1/ukarine-russia-war-tweet-analysis-using-NLP/blob/main/ukraine%20russia%20war%20tweets%20wordcloud.png?raw=true "russia ukraine war tweets wordcloud")](https://github.com/shaheerAlam1/ukarine-russia-war-tweet-analysis-using-NLP/blob/main/ukraine%20russia%20war%20tweets%20wordcloud.png?raw=true "russia ukraine war tweets wordcloud")
+[![russia ukraine war tweets wordcloud](https://github.com/shaheerAlam1/ukarine-russia-war-tweet-analysis-using-NLP/blob/main/ukraine%20russia%20war%20wordcloud.png?raw=true "russia ukraine war tweets wordcloud")](https://github.com/shaheerAlam1/ukarine-russia-war-tweet-analysis-using-NLP/blob/main/ukraine%20russia%20war%20wordcloud.png?raw=true "russia ukraine war tweets wordcloud")
 ### Purpose
 This exercise is just for educational purpose. 
