@@ -38,5 +38,5 @@ This project is for **educational purposes** and aims to demonstrate **Natural L
 ## 🔧 Setup & Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/ukraine-russia-war-tweets-analysis.git
+   git clone https://github.com/shaheerAlam1/ukarine-russia-war-tweet-analysis-using-NLP.git
    cd ukraine-russia-war-tweets-analysis
